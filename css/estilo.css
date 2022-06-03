@@ -23,6 +23,13 @@ body {
 	padding: 10px;
 }
 
+#area-menu{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+
+}
+
 #area-principal {
 	width: 920px;
 	margin: 0 auto;
@@ -123,7 +130,7 @@ h3 {
 	margin-bottom: 10px;
 	display: block;
 }
-
+ 
 
 
 
